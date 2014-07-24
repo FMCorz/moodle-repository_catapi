@@ -25,6 +25,7 @@
 
 defined('MOODLE_INTERNAL') || die();
 
+$string['catapi:view'] = 'View cats';
 $string['cats'] = 'Cats';
 $string['configplugin'] = 'Cats configuration';
 $string['pluginname'] = 'Cats';
